@@ -1,2 +1,15 @@
-join: true
-quit: true
+join:
+  enabled: true
+  world-specific: true
+  group-specific: true
+  mode: SINGLE
+quit:
+  enabled: true
+  world-specific: true
+  group-specific: true
+  mode: SINGLE
+first-join:
+  enabled: true
+  world-specific: true
+  group-specific: true
+  mode: SINGLE

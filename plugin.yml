@@ -1,5 +1,5 @@
 name: RealMotd-Messages
 main: sk.tomsik68.realmotd.msgs.RealMotdMessages
-version: 0.1
+version: 0.3
 depend: ['RealMotd']
 author: Tomsik68
