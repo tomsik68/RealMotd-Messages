@@ -1,15 +1,18 @@
 join:
   enabled: true
-  world-specific: true
-  group-specific: true
+  world-specific: false
+  group-specific: false
   mode: SINGLE
+  delay: 0
 quit:
   enabled: true
-  world-specific: true
-  group-specific: true
+  world-specific: false
+  group-specific: false
   mode: SINGLE
+  delay: 0
 first-join:
   enabled: true
-  world-specific: true
-  group-specific: true
+  world-specific: false
+  group-specific: false
   mode: SINGLE
+  delay: 0
